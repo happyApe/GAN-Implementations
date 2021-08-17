@@ -1,5 +1,6 @@
 # GAN-Implementations
 Paper reproductions generally.
+
 File Structure - 
 - [Vanilla GAN](https://github.com/happyApe/GAN-Implementations/blob/master/Vanilla%20gan.py) : Basic GAN architecture 
 - [DCGAN](https://github.com/happyApe/GAN-Implementations/tree/master/DCGAN) : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) Paper Implementation
